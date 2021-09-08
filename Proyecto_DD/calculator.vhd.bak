@@ -1,0 +1,22 @@
+LIBRARY IEEE;
+
+USE ieee.std_logic_1164.all;
+-------------------------------------------------------
+ENTITY calculator IS
+	PORT(		digit_1				:	IN		STD_LOGIC_VECTOR(3 DOWNTO 0);
+
+				result_1				:	OUT	STD_LOGIC_VECTOR(6 DOWNTO 0);
+				
+				digit_2				:	IN		STD_LOGIC_VECTOR(3 DOWNTO 0);
+
+				result_2				:	OUT	STD_LOGIC_VECTOR(6 DOWNTO 0));
+END ENTITY calculator;
+-------------------------------------------------------
+ARCHITECTURE behaviour OF calculator IS
+BEGIN 
+
+unidad: ENTITY work.bin_to_sseg(bin => digit_1, sseg => result_1);
+
+decimal: ENTITY work.bin_to_sseg(bin => digit_2, sseg => result_2);
+
+END behaviour;

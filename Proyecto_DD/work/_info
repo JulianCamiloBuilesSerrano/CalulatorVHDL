@@ -1,0 +1,510 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\buise\Downloads\Proyecto_DD - copia
+Ebin_to_sseg
+Z0 w1630535820
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dD:\Documentos\Digitales\Proyecto\proyecto 1\Proyecto_DD - copia
+Z4 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/bin_to_sseg.vhd
+Z5 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/bin_to_sseg.vhd
+l0
+L4
+VjGfz?Af]iifJ`=1Q@eEN^2
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1630895268.448000
+Z8 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/bin_to_sseg.vhd|
+Z9 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/bin_to_sseg.vhd|
+Z10 o-work work -O0
+Z11 tExplicit 1
+!s100 X>^INWg<@_M4?Hk3jIOl]3
+!i10b 1
+Abehaviour
+R1
+R2
+Z12 DEx4 work 11 bin_to_sseg 0 22 jGfz?Af]iifJ`=1Q@eEN^2
+l11
+L10
+Vd4;31]l8G749j39f<N<=21
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 2_V6^_Lk5@W[8embTQP?73
+!i10b 1
+Ecalculator
+Z13 w1630535880
+R1
+R2
+R3
+Z14 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/calculator.vhd
+Z15 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/calculator.vhd
+l0
+L5
+V0N0Ye_gG^WM0AClB63:j[3
+R6
+32
+Z16 !s108 1630895269.378000
+Z17 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/calculator.vhd|
+Z18 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/calculator.vhd|
+R10
+R11
+!s100 [:bBlDCH[4UMB9H:Qn6g=1
+!i10b 1
+Abehaviour
+Z19 DEx4 work 13 mayor_o_menor 0 22 >GdC=<1__4YKUcoF17bF80
+Z20 DEx4 work 8 sum4bits 0 22 5gMEzOJhI<G;fUgP@L42L1
+R12
+R1
+R2
+DEx4 work 10 calculator 0 22 0N0Ye_gG^WM0AClB63:j[3
+l28
+L22
+VA_CQU?>Ja[kAjmjTd4?bg2
+R6
+32
+R16
+R17
+R18
+R10
+R11
+!s100 C3c2B@[e:SIDLL1b5@01H0
+!i10b 1
+Ecomplements
+Z21 w1630690877
+R1
+R2
+R3
+Z22 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/complements.vhd
+Z23 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/complements.vhd
+l0
+L5
+VPSFcRR>ehHCgQJ8WOGXPf3
+R6
+32
+Z24 !s108 1630895270.163000
+Z25 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/complements.vhd|
+Z26 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/complements.vhd|
+R10
+R11
+!s100 Gb^^TL[[7kNmAJjZ8hff20
+!i10b 1
+Agetlevel
+R1
+R2
+Z27 DEx4 work 11 complements 0 22 PSFcRR>ehHCgQJ8WOGXPf3
+l15
+L13
+V7mU1N>6HK0hP0h62CPI>g0
+R6
+32
+R24
+R25
+R26
+R10
+R11
+!s100 Pf>hAd_9TaUO6MHVVnC[i2
+!i10b 1
+Edecen_uni
+Z28 w1630886022
+R1
+R2
+R3
+Z29 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/decen_uni.vhd
+Z30 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/decen_uni.vhd
+l0
+L7
+VQBkbkdgVEzLH52Qbozj0C3
+R6
+32
+Z31 !s108 1630895271.080000
+Z32 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/decen_uni.vhd|
+Z33 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/decen_uni.vhd|
+R10
+R11
+!s100 LeS^CfTeRR8H8GHV]h>f00
+!i10b 1
+Abehaviour
+R19
+R20
+R1
+R2
+DEx4 work 9 decen_uni 0 22 QBkbkdgVEzLH52Qbozj0C3
+l22
+L15
+ViFk3U^dcn_nK_@:9Sa:651
+R6
+32
+R31
+R32
+R33
+R10
+R11
+!s100 UW^6>]R?f8`deE<DLQjP92
+!i10b 1
+Efulladder
+R13
+R1
+R2
+R3
+Z34 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/fullAdder.vhd
+Z35 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/fullAdder.vhd
+l0
+L5
+VDFLzchnH::X04gd^8W4Ye0
+R6
+32
+Z36 !s108 1630895271.925000
+Z37 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/fullAdder.vhd|
+Z38 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/fullAdder.vhd|
+R10
+R11
+!s100 mC4P9IS3;o>@Zh0@=LN=Q1
+!i10b 1
+Afunctional
+R1
+R2
+Z39 DEx4 work 9 fulladder 0 22 DFLzchnH::X04gd^8W4Ye0
+l27
+L23
+VolVY]F5X6EFQ9A@k1b]1=2
+R6
+32
+R36
+R37
+R38
+R10
+R11
+!s100 2^04kCe5S4>`0b@j62kig0
+!i10b 1
+Emayor_o_menor
+R13
+R1
+R2
+R3
+Z40 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/mayor_o_menor.vhd
+Z41 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/mayor_o_menor.vhd
+l0
+L4
+V>GdC=<1__4YKUcoF17bF80
+R6
+32
+Z42 !s108 1630895272.911000
+Z43 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/mayor_o_menor.vhd|
+Z44 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/mayor_o_menor.vhd|
+R10
+R11
+!s100 :RhA?2B0MY;f@1Vc2b@Pe3
+!i10b 1
+Astructural
+R1
+R2
+R19
+l18
+L16
+V:VJ]h=mm?fEH;Yf7`mP4z2
+R6
+32
+R42
+R43
+R44
+R10
+R11
+!s100 QcA6M[_d1RHY`o7YL@mjY3
+!i10b 1
+Emultiply
+Z45 w1630684230
+R1
+R2
+R3
+Z46 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply.vhd
+Z47 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply.vhd
+l0
+L4
+VcZ2Y:ehYBMF2gCE5@Q6FL3
+R6
+32
+Z48 !s108 1630895273.818000
+Z49 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply.vhd|
+Z50 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply.vhd|
+R10
+R11
+!s100 IW^<84TPGY;V]^bED`R6o1
+!i10b 1
+Astructural
+R20
+R1
+R2
+Z51 DEx4 work 8 multiply 0 22 cZ2Y:ehYBMF2gCE5@Q6FL3
+l27
+L10
+V_n@LBGb;Cb>?DPZ8T>:j42
+R6
+32
+R48
+R49
+R50
+R10
+R11
+!s100 F^K0aBJ7zHW_fIB`iUfFm3
+!i10b 1
+Emultiply_test_bench
+Z52 w1630634118
+R1
+R2
+R3
+Z53 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply_test_bench.vhd
+Z54 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply_test_bench.vhd
+l0
+L4
+V:FZNR>JOI2TJZ9>G@GWCz3
+R6
+32
+Z55 !s108 1630895274.799000
+Z56 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply_test_bench.vhd|
+Z57 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/multiply_test_bench.vhd|
+R10
+R11
+!s100 1LmaRH^9Zh]C1=_j?3HCa3
+!i10b 1
+Astructural
+R51
+R1
+R2
+DEx4 work 19 multiply_test_bench 0 22 :FZNR>JOI2TJZ9>G@GWCz3
+l15
+L7
+V^@LYoGc=?j<jSO?f?aL<<2
+R6
+32
+R55
+R56
+R57
+R10
+R11
+!s100 E7NbhVP[eGDgkCf1Dl?S<3
+!i10b 1
+Eonebitequality
+R13
+R1
+R2
+R3
+Z58 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/oneBitEquality.vhd
+Z59 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/oneBitEquality.vhd
+l0
+L9
+VaL;^m<9MPSSkKHld?YgRB1
+R6
+32
+Z60 !s108 1630895275.754000
+Z61 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/oneBitEquality.vhd|
+Z62 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/oneBitEquality.vhd|
+R10
+R11
+!s100 Y>Xb8?oX[:l2I?mV_QzoH0
+!i10b 1
+Agatelevel
+R1
+R2
+Z63 DEx4 work 14 onebitequality 0 22 aL;^m<9MPSSkKHld?YgRB1
+l20
+L16
+VIoKRU371R9lMLN?kUm@1b2
+R6
+32
+R60
+R61
+R62
+R10
+R11
+!s100 5lDl2LhiPadOdzo;;ZYzd3
+!i10b 1
+Eselector
+Z64 w1630894633
+R1
+R2
+R3
+Z65 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/selector.vhd
+Z66 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/selector.vhd
+l0
+L10
+Vh3M;Fcl5A<l:=aBZNgeJH0
+R6
+32
+Z67 !s108 1630895276.928000
+Z68 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/selector.vhd|
+Z69 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/selector.vhd|
+R10
+R11
+!s100 :L3l=0UoI_zmo59QANiVM2
+!i10b 1
+Abehaviour
+R27
+R19
+R51
+R20
+R1
+R2
+DEx4 work 8 selector 0 22 h3M;Fcl5A<l:=aBZNgeJH0
+l34
+L23
+VMW[Pcozl>3J6R3>mb3e`X0
+R6
+32
+R67
+R68
+R69
+R10
+R11
+!s100 I9cZMjoD]lS8SzGmTPFh00
+!i10b 1
+Esum4bits
+Z70 w1630690588
+R1
+R2
+R3
+Z71 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum4bits.vhd
+Z72 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum4bits.vhd
+l0
+L5
+V5gMEzOJhI<G;fUgP@L42L1
+R6
+32
+Z73 !s108 1630895278.016000
+Z74 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum4bits.vhd|
+Z75 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum4bits.vhd|
+R10
+R11
+!s100 3H9R?Aaa32YCEjGAR@^jc3
+!i10b 1
+Agetlevel
+R39
+R1
+R2
+R20
+l35
+L27
+Vi@b:CPo_dnNb3Q2?Oz@zY1
+R6
+32
+R73
+R74
+R75
+R10
+R11
+!s100 O9;57eb==JcgL]oNE;1jl0
+!i10b 1
+Esum8bits
+Z76 w1630894680
+R1
+R2
+R3
+Z77 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits.vhd
+Z78 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits.vhd
+l0
+L5
+VncbFdYBUN`>nOGIH2z=062
+R6
+32
+Z79 !s108 1630895279.111000
+Z80 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits.vhd|
+Z81 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits.vhd|
+R10
+R11
+!s100 :Pd<F09c@PQ2kaJEZW=a?3
+!i10b 1
+Agetlevel
+R39
+R1
+R2
+Z82 DEx4 work 8 sum8bits 0 22 ncbFdYBUN`>nOGIH2z=062
+l33
+L27
+V^cC6DV6:5XQgNE?V>z<]k3
+R6
+32
+R79
+R80
+R81
+R10
+R11
+!s100 NNjEV7eAanlmeebHSoMQd0
+!i10b 1
+Esum8bits_tb
+Z83 w1630895250
+R1
+R2
+R3
+Z84 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits_tb.vhd
+Z85 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits_tb.vhd
+l0
+L4
+V40<WZQmG0b80FX<LBAHMd1
+R6
+32
+Z86 !s108 1630895280.146000
+Z87 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits_tb.vhd|
+Z88 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/sum8bits_tb.vhd|
+R10
+R11
+!s100 R6R6[Tf[LBVRnoZdf;38A1
+!i10b 1
+Astructural
+R82
+R1
+R2
+DEx4 work 11 sum8bits_tb 0 22 40<WZQmG0b80FX<LBAHMd1
+l17
+L7
+VJ_V_mVSo3bkfniSZljJf93
+R6
+32
+R86
+R87
+R88
+R10
+R11
+!s100 aGE;fiPRVMS>5XX:T:Z=b2
+!i10b 1
+Etwobitequality
+R13
+R1
+R2
+R3
+Z89 8D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/twoBitEquality.vhd
+Z90 FD:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/twoBitEquality.vhd
+l0
+L9
+Vj5^IllJCCQlPU[6fdWE2f1
+!s100 d5[<Ho`f0g:IO0eM?>9eL3
+R6
+32
+!i10b 1
+Z91 !s108 1630895281.612000
+Z92 !s90 -reportprogress|300|-work|work|D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/twoBitEquality.vhd|
+Z93 !s107 D:/Documentos/Digitales/Proyecto/proyecto 1/Proyecto_DD - copia/twoBitEquality.vhd|
+R10
+R11
+Astructural
+R63
+R1
+R2
+Z94 DEx4 work 14 twobitequality 0 22 j5^IllJCCQlPU[6fdWE2f1
+l18
+L16
+Z95 VV3ad>XDl?e_SfhREJ012I0
+Z96 !s100 9^8V3SW:3WlaA:SIhHMi=2
+R6
+32
+!i10b 1
+R91
+R92
+R93
+R10
+R11

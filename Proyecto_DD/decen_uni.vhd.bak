@@ -1,0 +1,68 @@
+LIBRARY IEEE;
+
+USE ieee.std_logic_1164.all;
+-------------------------------------------------------
+
+ENTITY decen_uni IS
+	PORT(		num				:	IN		STD_LOGIC_VECTOR(3 DOWNTO 0);
+								
+				result_1 				:	OUT 	STD_LOGIC_VECTOR(3 DOWNTO 0);
+				
+				result_2 				:	OUT 	STD_LOGIC_VECTOR(3 DOWNTO 0));
+				
+END ENTITY decen_uni;
+ARCHITECTURE behaviour OF decen_uni IS
+
+SIGNAL x1,x2,x3,x4,x5,x6,x7,x8,v,x : STD_LOGIC_VECTOR(3 DOWNTO 0); 
+SIGNAL ma1,ma2,ma3,ma4,ma5,ma6,ma7,ma8: STD_LOGIC; 
+SIGNAL x1,x2,x3,x4,x5,x6,x7,x8,v,x : STD_LOGIC_VECTOR(3 DOWNTO 0); 
+
+
+BEGIN
+
+BEGIN
+v <= "1010"
+-- hacer 8 restas ya que el numero mayor posible es 81
+
+-- se hace la primera resta
+
+substraction1: ENTITY work.sum4bits PORT MAP(a => num, b => v, Cin => '1', s => x1, Cout => x);
+
+-- se hace la segunda resta
+
+substraction2: ENTITY work.sum4bits PORT MAP(a => x1, b => v, Cin => '1', s => x2, Cout => x);
+
+-- se hace la tercera resta
+
+substraction3: ENTITY work.sum4bits PORT MAP(a => x2, b => v, Cin => '1', s => x3, Cout => x);
+
+-- se hace la cuarta resta
+
+substraction4: ENTITY work.sum4bits PORT MAP(a => x3, b => v, Cin => '1', s => x4, Cout => x);
+
+-- se hace la quita resta
+
+substraction5: ENTITY work.sum4bits PORT MAP(a => x4, b => v, Cin => '1', s => x5, Cout => x);
+
+-- se hace la sexta resta
+
+substraction6: ENTITY work.sum4bits PORT MAP(a => x5, b => v, Cin => '1', s => x6, Cout => x);
+
+-- se hace la septima resta
+
+substraction7: ENTITY work.sum4bits PORT MAP(a => x6, b => v, Cin => '1', s => x7, Cout => x);
+
+-- se hace la octava resta
+
+substraction8: ENTITY work.sum4bits PORT MAP(a => x7, b => v, Cin => '1', s => x8, Cout => x);
+
+
+-- comparacion
+
+-- comparacion 1
+decision: ENTITY work.mayor_o_menor PORT MAP(A => x1, B => x2, Mayor => Mayor, Menor => Menor);
+
+
+
+
+END behaviour;
